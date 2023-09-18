@@ -21,4 +21,5 @@ Essa aplicação torna possível a criação automatizada de títulos e descriç
 - **zod** 
 
 ## Imagens do Projeto (Project Images)
+![image](https://github.com/LucasSousa09/nlw-upload-ai/blob/main/pagina-inicial.png)
 
